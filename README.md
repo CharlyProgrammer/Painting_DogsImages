@@ -23,7 +23,7 @@ For this project, I trained an AutoEncoder that is a kind of Convolutional Artif
 
 The specific details about this project can be summarized in the followings points:
 
-  * DataBase --> the Stanford Dogs Dataset.
+  * Data --> Data was taken from the Stanford Dogs Dataset.
   * The Neural Network must work with images that have a size of 256x256 pixels.
   * Testing the Neural Network using additional photos that were downloaded from internet was a good way to see if the algorithm works properly.
   * Even though the network was not designed to work with other kind of pictures, it was interesting to experiment with the performance on the system using photos of a different kind of animal as cats.
