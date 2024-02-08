@@ -1,12 +1,12 @@
-<h1> <img src = "https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width = 40px> About this project </h1>
-<p align='center'>
-</p>
+## ***Design and Development of a convolutional artificial neural network to paint dogs images***
+
 <p align="center">
   <img src="https://github.com/CharlyProgrammer/Painting_DogsImages/blob/main/Imgs/Species-of-Stanford-dog-breeds-datasets.png" height="500"/>
 </p>
+<p align="center"> <b> Stanford Dogs Dataset </b> </p>
 
-
-## ***Design and Development of a convolutional artificial neural network to paint dogs images***
+ 
+<h1> <img src = "https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width = 40px> About this project </h1>
 
 For this project, I trained an AutoEncoder that is a kind of Convolutional Artificial Neural Network in order to paint grayscale dog images. It used images of 10 diferent dog breeds in grayscale to train a model which allows to retrieve the color version of any dog image that it receives as input. The dog breeds images of the Stanford Dogs Dataset which I used to work and build the training and testing dataset were the following:
 
