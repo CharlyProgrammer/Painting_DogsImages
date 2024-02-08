@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/CharlyProgrammer/Painting_DogsImages/blob/main/Imgs/Species-of-Stanford-dog-breeds-datasets.png" height="500"/>
 </p>
+
 <p align="center"> <b> Stanford Dogs Dataset </b> </p>
 
  
