@@ -1,4 +1,4 @@
-## ***Design and Development of a convolutional artificial neural network to paint dogs images***
+<h1><p align="center"> <b> <i> Design and Development of a convolutional artificial neural network to paint dogs images</i> </b> </p></h1>
 
 <p align="center">
   <img src="https://github.com/CharlyProgrammer/Painting_DogsImages/blob/main/Imgs/Species-of-Stanford-dog-breeds-datasets.png" height="500"/>
