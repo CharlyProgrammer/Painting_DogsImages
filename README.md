@@ -32,3 +32,12 @@ The specific details about this project can be summarized in the followings poin
   * The Construction of a report that shows a summary of all the layers and architecture of the Neural Network was another important task to visualize size and complexity of the resulting model.
   * It was necessary to show a colored version of a Beagle breed dog as an example image vs the result of the model for that particular sample in order to demostrate practical results and accuracy related to the model.
 
+### 👨🏻‍💻 &nbsp;Algorithms and techniques used
+
+ * Convolutional Artificial neural network
+ * Autoencoders
+ * Deep learning
+ * Kind of task: Generative models to paint images 
+ * Learning paradigm: Supervised
+ * Libraries & important modules used:Numpy, pandas, matplotlib, pytorch  
+
